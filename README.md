@@ -1,13 +1,3 @@
-# PROP Grup 11.4
-Projecte de Programació, Grup 11, subgrup 4 <br>Professor: Pau Blanco ([pablo.blanco@upc.edu]()).
-
-## Membres del grup
-
-- BELAUSTEGUI COLILAF, LAIA ([laia.nuria.belaustegui@estudiantat.upc.edu]())
-- GRACIA FERNANDEZ, JOAN ([joan.gracia.fernandez@estudiantat.upc.edu]())
-- LÓPEZ CAMPOS, CARLA ([carla.lopez.campos@estudiantat.upc.edu]())
-- RODRIGUEZ MARTINEZ, ALVARO ([alvaro.rodriguez.martinez@estudiantat.upc.edu]()).
-
 ## Elements del directori
 
 ### data:
