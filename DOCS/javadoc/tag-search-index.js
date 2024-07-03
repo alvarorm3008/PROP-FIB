@@ -1,0 +1,1 @@
+tagSearchIndex = [{"l":"Autors:","h":"Overview","d":"Section","u":"index.html#autors--heading"},{"l":"Documentació Projecte PROP: Joc de Kenken - Grup 11.4","h":"Overview","d":"Section","u":"index.html#documentaci-projecte-prop-joc-de-kenken---grup-11-4-heading"},{"l":"Serialized Form","h":"","u":"serialized-form.html"}];updateSearchResults();
